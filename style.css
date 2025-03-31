@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(57, 42, 42);
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+#main {
+  height: auto;
+  width: 400px;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+  color: brown;
+  text-align: center;
+  background-color: beige;
+}
+
+#input {
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 30px;
+  width: 70%;
+}
+
+#btn {
+  color: whitesmoke;
+  background-color: black;
+  padding: 8px;
+  border-radius: 7px;
+  margin: 10px;
+}
+
+#btn:hover {
+  color: whitesmoke;
+  background-color: rgb(54, 52, 52);
+}
+
+.listyle {
+  color: black;
+  margin-top: 5px;
+  text-align: start;
+  padding-right: 20px;
+}
